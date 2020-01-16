@@ -7,8 +7,9 @@ Date: 2020/14/1
 #include <stdio.h>
 
 int main(void)  {
-	printf("Hello World!\n");
-	printf("Amur al harthi\n");
+
+	printf("Name: Amur al harthi\n");
+	printf("Major:EE \n");
 return 0;
 }
 
